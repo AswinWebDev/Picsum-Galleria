@@ -1,4 +1,4 @@
-# React Image Generator
+# Picsum Galleria
 
 This React app is created using Vite and is designed to generate images based on a specified count value.
 
